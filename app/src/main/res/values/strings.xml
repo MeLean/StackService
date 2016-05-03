@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stack Service</string>
+    <string name="action_exit">Exit</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="dont_know_what_to_do">I do not know what to do!</string>
+    <string name="will_wait_toast_string">Will wait for %d seconds</string>
+    <string name="service_started">Service has been started!</string>
+    <string name="service_stopped">Service has been stopped!</string>
+    <string name="text_time_input">Loading time in minutes</string>
+    <string name="url_input">Please, enter the url</string>
+    <string name="invalid_time_format">Entered value: %s is invalid number format! \nThe numbers must be positive integers!</string>
+    <string name="error_occurred">An error occurred!\nService will stop</string>
+    <string name="sh_name">StackService</string>
+    <string name="sh_nextDate">SS_nextDate</string>
+    <string name="sh_url">SS_url</string>
+    <string name="sh_time">SS_time</string>
+    <string name="sh_close_time">SS_close_time</string>
+    <string name="sh_isServerRunning">SS_isRunning</string>
+    <string name="text_time_close">automatic close site after entered seconds</string>
+    <string name="zero_string">0</string>
+    <string name="default_url">http://stackoverflow.com</string>
+    <string name="default_time">720</string>
+    <string name="title_activity_web_view">Web View</string>
+    <string name="next_load_label">Next Load on:</string>
+    <string name="next_date_text">Never</string>
+    <string name="greater_value">The value of site loading: %1$d (in minutes) must be greater than the value for closing: %2$d (in seconds)!</string>
+
+    <!-- change your adMob unit -->
+    <string name="banner_ad_unit_id">ca-app-pub-xxxx</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-xxxx</string>
+</resources>

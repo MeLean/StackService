@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Стак Сървиз</string>
+    <string name="action_exit">Изход</string>
+    <string name="btn_start_service">Стартирай Сървиса</string>
+    <string name="btn_stop_service">Спри Сървиса</string>
+    <string name="dont_know_what_to_do">Не знам к`во да пра`я!</string>
+    <string name="will_wait_toast_string">Ще чака за %d милисекунди</string>
+    <string name="service_started">Сървиса се стартира!</string>
+    <string name="service_stopped">Сървиса се спря!</string>
+    <string name="text_time_input">Въведи време за презареждане в минути</string>
+    <string name="url_input">Моля, въведи адрес</string>
+    <string name="invalid_time_format">Въведената стойност %s е с невалиден формат! \nЧислата трябва да бъдат цели и положителни!</string>
+    <string name="error_occurred">Възникна грешка!\nСървиса ще бъде спрян</string>
+    <string name="title_activity_web_view">Сайт</string>
+    <string name="next_load_label">Следващо зареждане:</string>
+    <string name="next_date_text">Никога</string>
+    <string name="text_time_close">Въведи секунди за автоматично затваряне</string>
+    <string name="greater_value">Стойността на времето за зареждане на сайта: %1$d (в минути) трябва да е по-голяма от стойността на времето за автоматично затваряне: %2$d (в секунди)!</string>
+</resources>
